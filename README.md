@@ -67,9 +67,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-##Rental Motor
+## Rental Motor
 
-##Pada website rental motor ini, terdapat beberapa fitur untuk pengguna, di antaranya:
+## Pada website rental motor ini terdapat beberapa fitur untuk pengguna diantaranya:
 •	Pengguna dapat melihat halaman yang menampilkan list daftar merek motor yang disewakan. dan pengguna dapat melihat harga sewa motor per hari.
 •	Pengguna dapat memeriksa ketersediaan motor, baik yang tersedia maupun tidak tersedia.
 •	Pengguna juga dapat melihat beberapa review dari pelanggan lain serta FAQ (pertanyaan yang sering diajukan) untuk memudahkan proses penyewaan.
