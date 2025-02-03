@@ -64,3 +64,26 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+##Rental Motor
+
+##Pada website rental motor ini, terdapat beberapa fitur untuk pengguna, di antaranya:
+•	Pengguna dapat melihat halaman yang menampilkan list daftar merek motor yang disewakan. dan pengguna dapat melihat harga sewa motor per hari.
+•	Pengguna dapat memeriksa ketersediaan motor, baik yang tersedia maupun tidak tersedia.
+•	Pengguna juga dapat melihat beberapa review dari pelanggan lain serta FAQ (pertanyaan yang sering diajukan) untuk memudahkan proses penyewaan.
+•	Namun, untuk melakukan sewa motor, pengguna tersebut harus melakukan registrasi akun terlebih dahulu.
+## Di sisi admin, terdapat fitur-fitur khusus seperti:
+•	Admin dapat melakukan CRUD (Create, Read, Update, Delete) pada data kendaraan. Data yang ditambahkan akan langsung muncul di halaman pengguna.
+•	Admin dapat melihat daftar pengguna yang telah melakukan registrasi akun.
+•	Admin dapat memantau jumlah transaksi yang dilakukan oleh pengguna.
+•	Admin dapat mengubah status ketersediaan motor menjadi "tersedia" atau "tidak tersedia" jika motor tersebut telah disewa.
+
+o	Edit file .env pada database dan buat database baru di mysql, sesuaikan database dengan .env untuk mengonfigurasi koneksi database dan pengaturan lainnya.
+
+register dan login admin
+/admin/login & /admin/register
+
+
+
