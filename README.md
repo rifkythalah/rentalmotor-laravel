@@ -81,7 +81,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 •	Admin dapat mengubah status ketersediaan motor menjadi "tersedia" atau "tidak tersedia" jika motor tersebut telah disewa.
 
 o	Edit file .env pada database dan buat database baru di mysql, sesuaikan database dengan .env untuk mengonfigurasi koneksi database dan pengaturan lainnya.
-    composer install
 
 register dan login admin
 /admin/login & /admin/register
